@@ -8,4 +8,4 @@ def add(ip,port):
     cs.close()
 
 add('10.1.23.139',80)
-#ping
+#pingping
