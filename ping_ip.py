@@ -8,3 +8,4 @@ def addr(ip,port):
     cs.close()
 
 addr('10.1.23.139',80)
+#ping
