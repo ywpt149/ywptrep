@@ -9,4 +9,4 @@ def add(ip,port):
 #wo shi master
 add('10.1.23.139',80)
 #wo shi dud
-#woshi 123
+#woshi
