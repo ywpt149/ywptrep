@@ -6,6 +6,5 @@ def add(ip,port):
     address=(str(ip),int(port))
     cs.connect(address)
     cs.close()
-#ping
+#wo shi master
 add('10.1.23.139',80)
-#ping
