@@ -8,3 +8,4 @@ def add(ip,port):
     cs.close()
 #wo shi hly
 add('10.1.23.139',80)
+#wo shi dud
